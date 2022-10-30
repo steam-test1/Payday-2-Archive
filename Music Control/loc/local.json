@@ -1,0 +1,17 @@
+{ 	
+	"music_language_us" : "English",
+	"music_language_fr" : "French",
+	"music_language_de" : "German",
+	"music_language_kr" : "Korean",
+	"music_language_ru" : "Russian",
+	"music_language_tr" : "Turkish",
+	"music_language_cn" : "Chinese",
+	"music_spending_me" : "spending",
+	"music_offshore_me" : "offshore",
+	"music_youtube_rep" : "youtube repeat",
+	"music_subredd_pd2" : "payday reddit",
+	"music_last_bullet" : "modworkshop.net",
+	"music_profile_rep" : "steamrep",
+	"music_version_mod" : "build version",
+	"music_total_songs" : "total songs"
+}
