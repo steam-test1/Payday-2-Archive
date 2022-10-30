@@ -101,5 +101,14 @@
     "music_language_kr" : "Korean",
     "music_language_ru" : "Russian",
     "music_language_tr" : "Turkish",
-    "music_language_cn" : "Chinese"
+    "music_language_cn" : "Chinese",
+    "music_language_es" : "Spanish",
+    "music_spending_me" : "Spending",
+    "music_offshore_me" : "Offshore",
+    "music_youtube_rep" : "Listen on Repeat",
+    "music_subredd_pd2" : "Reddit oficial of PAYDAY",
+    "music_last_bullet" : "modworkshop.net",
+    "music_profile_rep" : "Steamrep",
+    "music_version_mod" : "Build actual",
+    "music_total_songs" : "Total Songs"
   }
