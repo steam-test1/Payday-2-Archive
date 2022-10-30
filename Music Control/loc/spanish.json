@@ -103,4 +103,12 @@
   "music_language_tr" : "Turco",
   "music_language_cn" : "Chino"
   "music_language_es" : "Español"
+  "music_spending_me" : "Efectivo",
+	"music_offshore_me" : "En el extranjero",
+	"music_youtube_rep" : "Listen on Repeat",
+	"music_subredd_pd2" : "Reddit oficial de PAYDAY",
+	"music_last_bullet" : "modworkshop.net",
+	"music_profile_rep" : "Steamrep",
+	"music_version_mod" : "Build actual",
+	"music_total_songs" : "Canciones totales"
 }
